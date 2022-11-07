@@ -1,1 +1,1 @@
-# Pomelo_SQL
+This is the third project for the Data Engineering course. In this project, I will
