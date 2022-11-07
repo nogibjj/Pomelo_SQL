@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "centering-seer-367902",
+    "private_key_id": "08e3e195951a7dcfcd15a56b276da3c8e738f31b",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7iIcYY9LkABE5\nFc/bvUS3pwZxOVfMHeHsk3m/zR5KbNgoFifw9f9YIH8AnTuy0dBgXSerJyL8Wbca\nW39Jl7GEyyRSNq5537gURKHsmDrb7GxwNbCKdn7rtfN1JRWTsCBmUUL6+w+MYqtl\nNyTANJGXEQmTXsVq41ZyG68Hf6+ct9iEOddxqWkpvZx8N3HqP0PaZ2QnXt9C6kHq\noyrKmnqX6TpnOo/FKK7E8epTWzGL3rY2xbSVfTL5IajjGbdSGZsL9sfR76nCiyAN\nh++WE68d+rrqh5DzgHPYeD8+JCctucFyh8lJpWbJzcQsssMLYQrPdowiM2YMzJA1\nPy2Db/RPAgMBAAECggEAIo+gxh/vh9FzWx/n9MlG1snTaB53TcjcECuFrpFw2aqB\nk7GxnrjXXDhw734KuIPucTP50ZMe4X7vPc5LARcRwjVl9jjZouBWHnYfmWjcwBcs\nTOm4JWx9K5eWzKoO9e7pqbGkNHj8fpTYnYiyHzIQ+tRK/XvjyjUng1QSx8ECblEq\nRNq+IySQMHHfQiPGbjzuneKNa/ed6NZY706PRx4NuLIViPpKy6sZMLsP6YJRLhEM\nGRHupIIODwnrHQU4bmMw3nX4Y/1BOb1B+l6VMmOG5wQKIPO8rajcFXSz+CSJtV5B\nCioUNdPvGgK0cXEevLs3HDnh0RaitNJyhNilmQYTcQKBgQDzKHBhpUl1RjDqMBx3\nNrZstiE33Q3ehCOsxKXPLpzIu5Ib6y6M6uCgnvsI/qD7sv9VWVIlcHmmQpJi1t6Q\n3mV4MZTcRpgjBG4DWk6d5xc52mZqv88OEf3+2C3nSrIHAX8rryjDx4YNwClevBbr\nK88crYnW8eUqhsNc46ZiF4d1BQKBgQDFcAdJq+5GGzU1HbUky6BOlSMLo1uwJmqk\nHqquyZ42USyjZo7rdB8AoRAW292MyIE5ZXvfuIUrcdgZLZX2r3uv2nMSCUsfVGFI\ndKSJEXIGD4DJ+lr2PWxgb0vMCtW/ewjk2yvY9QqvAg7qYBXiLXGL9219uHTQEtW1\njyqcVPtEQwKBgDUWCxMGZvc3j85RGqXcSA+L48yycii2aKN7e0e0QX6BlPCLc+pI\nDSqECwJ3tOW+uogDrC+IUsa9mgACMS0noLeQ+5LrxqM+gFYzDR7kKOn0iI+duLK1\nsuJEiCEK6bsl1IHRB/FWSioOXfnUzpwhQGJecM2AmiuiqFxLRzP7NxORAoGBAIKC\naD7ZqLqs14IR7iCxfXkUekMCK+SHsGxmXRsG6U8sX15vt7+KVcf7r3/8vDmIfGst\nWzHqbhTmvxr9mCilnRQESZY9kGvYQio7+FsmrgG1k8Nve1tUBOTGDQuGif513M4y\n1owmhnZi3Osusqh8s5b66mR1XroACUZnqZoHTsSzAoGBAPDUBXtAOQmQ1Zv5jb6w\n7jMOAzRlE65wF0aVpMOwZN32j9FtLtJ55f/cgBvvSp73PboYlSRkFOmsrhcF33Y1\nMOWwRJSNvim84JU8ICoJg7yF1whJD1ZDfI7Mzt+kEs7PzlW6nckxrQYNBxknrTek\nF7afbr0QPaHciangvferPBXj\n-----END PRIVATE KEY-----\n",
+    "client_email": "pomelo@centering-seer-367902.iam.gserviceaccount.com",
+    "client_id": "104892163223526082092",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pomelo%40centering-seer-367902.iam.gserviceaccount.com"
+  }
+  
