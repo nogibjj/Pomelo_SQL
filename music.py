@@ -49,3 +49,6 @@ list = pop_artist()
 for i in list:
     print(i)
 
+
+print('this is a test')
+print('testing testing')
